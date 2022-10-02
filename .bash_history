@@ -163,3 +163,51 @@ git remote -v
 git status
 git push origin main
 git push origin master
+pwd
+git status
+ls 0altrg
+ls -altr
+git --config
+git config --list
+ssh--keygen
+ssh-keygen
+.ssh
+cd ssh
+cd .ssh
+ls -altr
+ssh-keygen
+ls -altr
+cat id_rsa.pub
+git remote -v
+cd
+git remote set-url origin git@github.com:giriskht7896/home-repository.git
+git remote -v
+git status
+git add .
+git commit -m " home_update"
+git push origin master
+git status
+vi second-file
+git status
+git add .
+git commit -m" second-file"
+git push origin master
+git remote -v
+cd
+ls -altr
+first-directory
+cd first-directory
+ssh-keygen
+.ssh
+cd
+cd .ssh
+ls -altr
+cat id_rsa.pub
+git remote set-url origin git@github.com:giriskht7896/first-directory.git
+git remote -v
+git status
+git add .
+git commit -m " first directory"
+git status
+git push origin first-directory
+git push origin master
