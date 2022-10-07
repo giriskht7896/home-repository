@@ -211,3 +211,136 @@ git commit -m " first directory"
 git status
 git push origin first-directory
 git push origin master
+pwd
+ssh-keygen
+cd .ssh
+ls -altr
+cat id_rsa.pub
+clear
+cd
+git remote -v
+git status
+git add .
+git commit -m " add home"
+git push origin master
+git remote set-url origin git@github.com:giriskht7896/home-repository.git
+git remote -v
+vi home_file1
+git add .
+git status
+git commit -m "homefile1"
+git status
+git push origin master
+git push origin main
+cd
+pwd
+git status
+vi home-file2
+git status
+ssh-keygen
+cd .ssh
+ls -altrh
+cat id_rsa.pub
+git status
+git remote -v
+git branch
+cd
+git branch
+git add .
+git status
+git commit -m " added file2"
+git status
+git push origin master
+ls - altr
+ls -altr
+cd first-directory
+git status
+vi file45
+git status
+git remote -v
+git branch
+git add .
+git commit -m "add 45 file"
+git push origin master
+git config --global
+git config --global --edit
+git status
+git push origin master
+git pull origin master
+git add .
+git commit -m "pushing"
+git push origin master
+git pull
+git status
+git push origin master
+git branch
+git remote -v
+git push origi master
+cd
+ls -altrh
+cd third-directory
+ls -altrh
+git init
+ls -altrh
+cd ..
+ls -al
+cd third-directory
+vi file47
+git status
+git remote -v
+git remote set-url origin git@github.com:giriskht7896/third-directory.git
+git remote add origin git@github.com:giriskht7896/third-directory.git
+git remote -v
+git status
+git add .
+git commit -m "file 47 added"
+git push origin master
+cd
+ls -altr
+rm -r first-directory/
+rm -rf first-directory/
+git clone git@github.com:giriskht7896/first-directory.git
+git status
+cd first-directory
+vi file 48
+git add .
+git commit -m "added file47"
+git push origin master
+git remote -v
+git branch
+git push origin main
+cd
+ls -altr
+ls
+ls -la
+clear
+ls
+cd fifth-directory/
+ls
+ls -la
+cd ..
+ls
+cd fourth-directory/
+ls -la
+cd ..
+ls
+cd first-directory/
+ls
+ ls-la
+ls-la
+ls -la
+git remote -v
+git pull *
+git pull 
+git pull origin master
+git config --global --list
+git log
+clear
+ls
+cd ..
+ls
+cd third-directory/
+ls
+git log
+git log --online
+git log --oneline
