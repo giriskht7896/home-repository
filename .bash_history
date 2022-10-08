@@ -344,3 +344,12 @@ ls
 git log
 git log --online
 git log --oneline
+git tag -l
+git tag -d v1.3
+git push origin -d v1.3
+ls -altr
+vi second-file
+git diff
+cat second-file
+git checkout second-file
+cat second-file
