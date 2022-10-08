@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1665219402,,"wq"
+|2,0,1665216839,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,64 +28,32 @@
 |3,1,36,0,1,0,1664738195,"#"
 
 # File marks:
-'0  2  25  ~/home-file2
-|4,48,2,25,1665219402,"~/home-file2"
-'1  1  0  ~/.git/COMMIT_EDITMSG
-|4,49,1,0,1665219061,"~/.git/COMMIT_EDITMSG"
-'2  28  0  ~/home_file1
-|4,50,28,0,1665216839,"~/home_file1"
-'3  28  0  ~/home_file1
-|4,51,28,0,1665216695,"~/home_file1"
-'4  1  16  ~/second-file
-|4,52,1,16,1665216514,"~/second-file"
-'5  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,53,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
-'6  1  18  ~/.git/TAG_EDITMSG
-|4,54,1,18,1665138642,"~/.git/TAG_EDITMSG"
-'7  1  14  ~/first-directory/file
-|4,55,1,14,1664739906,"~/first-directory/file"
-'8  1  14  ~/third-directory/file47
-|4,56,1,14,1664739263,"~/third-directory/file47"
-'9  5  0  ~/.gitconfig
-|4,57,5,0,1664738241,"~/.gitconfig"
+'0  28  0  ~/home_file1
+|4,48,28,0,1665216839,"~/home_file1"
+'1  28  0  ~/home_file1
+|4,49,28,0,1665216695,"~/home_file1"
+'2  1  16  ~/second-file
+|4,50,1,16,1665216514,"~/second-file"
+'3  2  15  ~/fourth-directory/frst-file-in-file-dir
+|4,51,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
+'4  1  18  ~/.git/TAG_EDITMSG
+|4,52,1,18,1665138642,"~/.git/TAG_EDITMSG"
+'5  1  14  ~/first-directory/file
+|4,53,1,14,1664739906,"~/first-directory/file"
+'6  1  14  ~/third-directory/file47
+|4,54,1,14,1664739263,"~/third-directory/file47"
+'7  5  0  ~/.gitconfig
+|4,55,5,0,1664738241,"~/.gitconfig"
+'8  2  0  ~/first-directory/file45
+|4,56,2,0,1664737914,"~/first-directory/file45"
+'9  1  26  ~/home-file2
+|4,57,1,26,1664736988,"~/home-file2"
 
 # Jumplist (newest first):
--'  2  25  ~/home-file2
-|4,39,2,25,1665219402,"~/home-file2"
--'  1  26  ~/home-file2
-|4,39,1,26,1665219275,"~/home-file2"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1665219061,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1665219061,"~/.git/COMMIT_EDITMSG"
--'  28  0  ~/home_file1
-|4,39,28,0,1665216839,"~/home_file1"
--'  28  0  ~/home_file1
-|4,39,28,0,1665216839,"~/home_file1"
--'  28  0  ~/home_file1
-|4,39,28,0,1665216839,"~/home_file1"
 -'  28  0  ~/home_file1
 |4,39,28,0,1665216839,"~/home_file1"
 -'  28  0  ~/home_file1
 |4,39,28,0,1665216695,"~/home_file1"
--'  28  0  ~/home_file1
-|4,39,28,0,1665216695,"~/home_file1"
--'  28  0  ~/home_file1
-|4,39,28,0,1665216695,"~/home_file1"
--'  28  0  ~/home_file1
-|4,39,28,0,1665216695,"~/home_file1"
--'  4  0  ~/home_file1
-|4,39,4,0,1665216670,"~/home_file1"
--'  4  0  ~/home_file1
-|4,39,4,0,1665216670,"~/home_file1"
--'  4  0  ~/home_file1
-|4,39,4,0,1665216670,"~/home_file1"
--'  4  0  ~/home_file1
-|4,39,4,0,1665216670,"~/home_file1"
--'  4  0  ~/home_file1
-|4,39,4,0,1665216670,"~/home_file1"
--'  4  0  ~/home_file1
-|4,39,4,0,1665216670,"~/home_file1"
 -'  4  0  ~/home_file1
 |4,39,4,0,1665216670,"~/home_file1"
 -'  4  0  ~/home_file1
@@ -98,78 +66,6 @@
 |4,39,1,16,1665216514,"~/second-file"
 -'  1  16  ~/second-file
 |4,39,1,16,1665216514,"~/second-file"
--'  1  16  ~/second-file
-|4,39,1,16,1665216514,"~/second-file"
--'  1  16  ~/second-file
-|4,39,1,16,1665216514,"~/second-file"
--'  1  16  ~/second-file
-|4,39,1,16,1665216514,"~/second-file"
--'  1  16  ~/second-file
-|4,39,1,16,1665216514,"~/second-file"
--'  1  16  ~/second-file
-|4,39,1,16,1665216514,"~/second-file"
--'  1  16  ~/second-file
-|4,39,1,16,1665216514,"~/second-file"
--'  1  16  ~/second-file
-|4,39,1,16,1665216514,"~/second-file"
--'  1  16  ~/second-file
-|4,39,1,16,1665216514,"~/second-file"
--'  1  16  ~/second-file
-|4,39,1,16,1665216514,"~/second-file"
--'  1  16  ~/second-file
-|4,39,1,16,1665216514,"~/second-file"
--'  1  16  ~/second-file
-|4,39,1,16,1665216514,"~/second-file"
--'  1  16  ~/second-file
-|4,39,1,16,1665216514,"~/second-file"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
--'  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
 -'  2  15  ~/fourth-directory/frst-file-in-file-dir
 |4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
 -'  2  15  ~/fourth-directory/frst-file-in-file-dir
@@ -202,69 +98,160 @@
 |4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
 -'  1  0  ~/fourth-directory/frst-file-in-file-dir
 |4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
--'  1  0  ~/fourth-directory/frst-file-in-file-dir
-|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
 
 # History of marks within files (newest to oldest):
-
-> ~/home-file2
-	*	1665219395	0
-	"	2	25
-	^	2	26
-	.	2	25
-	+	1	27
-	+	2	25
-
-> ~/.git/COMMIT_EDITMSG
-	*	1665219055	0
-	"	1	0
-	^	1	0
 
 > ~/home_file1
 	*	1665216833	0
@@ -323,6 +310,13 @@
 	^	2	0
 	.	1	29
 	+	1	29
+
+> ~/home-file2
+	*	1664736984	0
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
 
 > ~/first-directory/fd-secondfile
 	*	1664709372	0
