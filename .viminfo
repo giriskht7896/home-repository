@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1665138955,,"wq"
+|2,0,1665215823,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,36 +28,56 @@
 |3,1,36,0,1,0,1664738195,"#"
 
 # File marks:
-'0  2  15  ~/fourth-directory/frst-file-in-file-dir
-|4,48,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
-'1  1  18  ~/.git/TAG_EDITMSG
-|4,49,1,18,1665138642,"~/.git/TAG_EDITMSG"
-'2  1  14  ~/first-directory/file
-|4,50,1,14,1664739906,"~/first-directory/file"
-'3  1  14  ~/third-directory/file47
-|4,51,1,14,1664739263,"~/third-directory/file47"
-'4  5  0  ~/.gitconfig
-|4,52,5,0,1664738241,"~/.gitconfig"
-'5  2  0  ~/first-directory/file45
-|4,53,2,0,1664737914,"~/first-directory/file45"
-'6  1  26  ~/home-file2
-|4,54,1,26,1664736988,"~/home-file2"
-'7  4  0  ~/home_file1
-|4,55,4,0,1664735678,"~/home_file1"
-'8  1  17  ~/second-file
-|4,56,1,17,1664713462,"~/second-file"
-'9  2  33  ~/first-directory/fd-secondfile
-|4,57,2,33,1664709381,"~/first-directory/fd-secondfile"
+'0  10  1  ~/second-file
+|4,48,10,1,1665215823,"~/second-file"
+'1  2  15  ~/fourth-directory/frst-file-in-file-dir
+|4,49,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
+'2  1  18  ~/.git/TAG_EDITMSG
+|4,50,1,18,1665138642,"~/.git/TAG_EDITMSG"
+'3  1  14  ~/first-directory/file
+|4,51,1,14,1664739906,"~/first-directory/file"
+'4  1  14  ~/third-directory/file47
+|4,52,1,14,1664739263,"~/third-directory/file47"
+'5  5  0  ~/.gitconfig
+|4,53,5,0,1664738241,"~/.gitconfig"
+'6  2  0  ~/first-directory/file45
+|4,54,2,0,1664737914,"~/first-directory/file45"
+'7  1  26  ~/home-file2
+|4,55,1,26,1664736988,"~/home-file2"
+'8  4  0  ~/home_file1
+|4,56,4,0,1664735678,"~/home_file1"
+'9  1  17  ~/second-file
+|4,57,1,17,1664713462,"~/second-file"
 
 # Jumplist (newest first):
+-'  10  1  ~/second-file
+|4,39,10,1,1665215823,"~/second-file"
+-'  1  17  ~/second-file
+|4,39,1,17,1665215787,"~/second-file"
 -'  2  15  ~/fourth-directory/frst-file-in-file-dir
 |4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
+-'  2  15  ~/fourth-directory/frst-file-in-file-dir
+|4,39,2,15,1665138955,"~/fourth-directory/frst-file-in-file-dir"
+-'  1  0  ~/fourth-directory/frst-file-in-file-dir
+|4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
 -'  1  0  ~/fourth-directory/frst-file-in-file-dir
 |4,39,1,0,1665138930,"~/fourth-directory/frst-file-in-file-dir"
 -'  1  18  ~/.git/TAG_EDITMSG
 |4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
 -'  1  18  ~/.git/TAG_EDITMSG
 |4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  18  ~/.git/TAG_EDITMSG
+|4,39,1,18,1665138642,"~/.git/TAG_EDITMSG"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
+-'  1  14  ~/first-directory/file
+|4,39,1,14,1664739906,"~/first-directory/file"
 -'  1  14  ~/first-directory/file
 |4,39,1,14,1664739906,"~/first-directory/file"
 -'  1  14  ~/first-directory/file
@@ -82,6 +102,54 @@
 |4,39,1,14,1664739263,"~/third-directory/file47"
 -'  1  14  ~/third-directory/file47
 |4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  1  14  ~/third-directory/file47
+|4,39,1,14,1664739263,"~/third-directory/file47"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1664738241,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
 |4,39,5,0,1664738241,"~/.gitconfig"
 -'  5  0  ~/.gitconfig
@@ -178,80 +246,20 @@
 |4,39,2,0,1664737914,"~/first-directory/file45"
 -'  2  0  ~/first-directory/file45
 |4,39,2,0,1664737914,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  0  ~/first-directory/file45
-|4,39,1,0,1664737893,"~/first-directory/file45"
--'  1  26  ~/home-file2
-|4,39,1,26,1664736988,"~/home-file2"
--'  1  26  ~/home-file2
-|4,39,1,26,1664736988,"~/home-file2"
--'  1  26  ~/home-file2
-|4,39,1,26,1664736988,"~/home-file2"
--'  1  26  ~/home-file2
-|4,39,1,26,1664736988,"~/home-file2"
+-'  2  0  ~/first-directory/file45
+|4,39,2,0,1664737914,"~/first-directory/file45"
+-'  2  0  ~/first-directory/file45
+|4,39,2,0,1664737914,"~/first-directory/file45"
 
 # History of marks within files (newest to oldest):
+
+> ~/second-file
+	*	1665215819	0
+	"	10	1
+	^	10	2
+	.	10	1
+	+	1	18
+	+	10	1
 
 > ~/fourth-directory/frst-file-in-file-dir
 	*	1665138950	0
@@ -309,13 +317,6 @@
 	^	4	0
 	.	3	26
 	+	3	26
-
-> ~/second-file
-	*	1664713457	0
-	"	1	17
-	^	1	18
-	.	1	17
-	+	1	17
 
 > ~/first-directory/fd-secondfile
 	*	1664709372	0
