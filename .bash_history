@@ -344,3 +344,184 @@ ls
 git log
 git log --online
 git log --oneline
+ls -altr
+vi second-directory
+vi second-file
+git status
+git add second-file
+git status
+git commit -m"added second file code"
+git log --oneline
+git reset --soft HEAD~1
+git log --oneline
+git status
+git commit -m"added second file code"
+git status
+git log --oneline
+git reset --mixed HEAD~1
+git status
+git add second-file
+git commit -m"added second file code"
+git log --oneline
+git reset --hard HEAD~1
+cat second-file
+vi second-file 
+git add .
+git commit -m " second file updated"
+git push origin master
+git log --oneline 
+git revert e5bf151 
+git status
+git log --oneline 
+git revert e5bf151 
+git push origin master
+git log --oneline
+git revert e5bf151 
+vi second-file
+git push origin master
+ls -altr
+vi home_file1
+git add .
+git commit -m " added home-file1"
+git push origin master 
+cat home_file1
+vi home_file1
+git log --oneline
+git revert 79e6d7e 
+git add .
+git status
+git commit -a -m "MESSAGE"
+git push origin master
+ls -altr
+cat home_1
+
+git log --oneline
+git push origin master
+git revert 79e6d7e
+git status
+git pull origin master
+git branch
+git diff
+ls -altr
+cat home_file1
+vi home_file1
+cat home_file1
+git add .
+git commit -m "added home-file1"
+git push origin master
+git log --oneline
+git revert dc8706b
+cat home_file1
+git push origin master
+ls -altr
+vi home-file2
+git add .
+git commit -m "add in home-file2"
+git push origin master
+git log --oneline
+git revert 82211d2
+git commit -m "add in "
+git push origin master
+git log --oneline
+cat home-file2
+ls -altr
+cat second-file
+vi second-file
+cat second-file
+git add.
+git add .
+git branch
+git branch main
+git branch 
+git commit -m "updated second file"
+git push origin master
+git log --oneline
+git revert 42b6600
+rm -r ~/.git/.COMMIT_EDITMSG.swp
+git revert 42b6600
+git revert
+git revert --continue
+git revert --quit
+git revert 42b6600
+cat second-file
+git add .
+git status
+git commit -m " old file"
+git push origin master
+git branch 
+git branch branch1
+git branch 
+git checkout branch1
+git branch 
+ls -altr
+vi third-file
+git add .
+git commit -m " third"
+git push origin branch1
+git branch
+ls -altr
+git checkout master
+ls -altr
+git pull origin master
+ls -altr
+sudo yum udate
+sudo yum update
+git branch
+ls -altr
+vi home-file2
+git add .
+git commit -m "added second line"
+vi home-file2
+git add .
+git commit -m "added third line"
+git log -oneline
+git log --oneline
+git branch
+git checkout branch1
+git branch 
+ls -altr
+vi branch1file
+git add .
+git commit -m " first update branch1 file"
+vi branch1file
+git add .
+git commit -m " second update branch1 file"
+git log --oneline
+git rebase master
+vi branch1file
+git branch 
+git checkout branch1
+git branch
+ls -altr
+git rebase master
+git rebase --continue
+git rebase --abort
+git branch
+vi branch1file
+git log --oneline
+git add . 
+git commit -m " second update of branchfile"
+git log --oneline
+git checkout master
+git branch 
+git rebase branch1
+vi home-file2
+git add .
+git status
+git restore --staged
+git status
+git log --oneline
+git branch
+git branch1
+git checkout branch1
+git rebase master
+git branch
+ls -altr
+rm -r dir.
+rm -r *y
+chmod 
+ls -altrg
+rm -r first-directory
+chmod 777 first-directory
+ls -altrg
+rm -r first-directory
